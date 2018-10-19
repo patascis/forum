@@ -6,6 +6,6 @@
   </head>
   <body>
     <h1>Forum</h1>
-    Hello World
+    <p>Hello World</p>
   </body>
 </html>
